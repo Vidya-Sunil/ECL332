@@ -1,7 +1,7 @@
 # ECL332
 Communication Lab - S6 ECE KTU
 
-
+EXPERIMENT-1
 Performance of Waveform Coding Using PCM
  1. Generate a sinusoidal waveform with a DC offset so that it takes only
 positive amplitude value.
