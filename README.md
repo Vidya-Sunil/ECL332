@@ -2,7 +2,7 @@
 Communication Lab - S6 ECE KTU
 
 
-1. Performance of Waveform Coding Using PCM
+Performance of Waveform Coding Using PCM
  1. Generate a sinusoidal waveform with a DC offset so that it takes only
 positive amplitude value.
  2. Sample and quantize the signal using an uniform quantizer with number of
